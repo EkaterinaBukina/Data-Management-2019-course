@@ -18,5 +18,6 @@ Skype: iradche
 
 ### Управление данными
 
-Немного предыстории.     
-Data Management is the development and execution of architectures, policies, practices and procedures that properly manage the full data life-cycle needs of an enterprise (DAMA International)     
+- Немного предыстории.     
+- Data Management is the development and execution of architectures, policies, practices and procedures that properly manage the full data life-cycle needs of an enterprise ([DAMA International](https://dama.org/))       
+- [Введение](https://github.com/HSEtraining/Data-Management-2019-course/blob/master/lectures/DataManagement01.pdf)
