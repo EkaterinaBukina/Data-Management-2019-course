@@ -13,7 +13,8 @@ Skype: iradche
 ## Цели занятия
 ### Знакомство     
 Предварительный опрос: https://goo.gl/forms/4O0fQAt12RxaH7wF2      
-Опорная гуглотаблица: https://docs.google.com/spreadsheets/d/1NvU-ED2WTrvb-M41DZcqqQdUtHKSmfR09Ilq2UU8PRY/edit#gid=0  
+Опорная гуглотаблица: https://docs.google.com/spreadsheets/d/1NvU-ED2WTrvb-M41DZcqqQdUtHKSmfR09Ilq2UU8PRY/edit#gid=0       
+Образовательный стрим: https://youtu.be/UdMsoQhONRc               
 
 
 ### Управление данными
