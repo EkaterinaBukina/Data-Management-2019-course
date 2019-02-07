@@ -22,4 +22,5 @@ Skype: iradche
 - Data Management is the development and execution of architectures, policies, practices and procedures that properly manage the full data life-cycle needs of an enterprise ([DAMA International](https://dama.org/))       
 - [Введение](https://github.com/HSEtraining/Data-Management-2019-course/blob/master/lectures/DataManagement01.pdf)
 
-![Data Life Cycle](https://upload.wikimedia.org/wikipedia/commons/b/b4/The_Data_Lifecycle.jpg "Data Life Cycle")
+![Data Life Cycle](https://upload.wikimedia.org/wikipedia/commons/b/b4/The_Data_Lifecycle.jpg "Data Life Cycle")     
+[Источник](https://upload.wikimedia.org/wikipedia/commons/b/b4/The_Data_Lifecycle.jpg)
