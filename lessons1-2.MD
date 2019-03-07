@@ -17,11 +17,11 @@
 
 
 ## Вебинар
-Видео: https://youtu.be/Y-a2WARcom0?list=PLfSN69RCPDM9pqByd9AXpfNaKTqkk260y
+Видео: 
 
 ## Задание 
 
-Подготовить и сдать [задание 1](https://github.com/iradche/Data-Management-course/blob/master/tasks/task1.md).
+Подготовить и сдать [задание 1](https://github.com/HSEtraining/Data-Management-2019-course/blob/master/tasks/task1.md).
 
 
 
