@@ -20,9 +20,9 @@
 
 ### Что нужно сделать по заданию 1
 
-1. Запишите вашу тему в гугл-таблицу (в качестве комментария в соответствующей ячейке таблицы): https://docs.google.com/spreadsheets/d/1ky2-lWnzsWVZwq_rdsj54xKQ1XPaxPhbYdElKMbcSmo/edit#gid=1954532834
+1. Запишите вашу тему в гугл-таблицу (в качестве комментария в соответствующей ячейке таблицы): https://docs.google.com/spreadsheets/d/1NvU-ED2WTrvb-M41DZcqqQdUtHKSmfR09Ilq2UU8PRY/edit#gid=0
 2. Найдите по вашей теме 1-2 набора данных.     
-3. Создайте репозиторий **Data-Management-2018** в своем аккаунте на GitHub (у кого такого аккаунта нет, то заведите его и киньте ссылку в нашу опорную гуглотаблицу: https://docs.google.com/spreadsheets/d/1ky2-lWnzsWVZwq_rdsj54xKQ1XPaxPhbYdElKMbcSmo/edit#gid=1954532834).
+3. Создайте репозиторий **Data-Management-2019** в своем аккаунте на GitHub (у кого такого аккаунта нет, то заведите его и киньте ссылку в нашу опорную гуглотаблицу: https://docs.google.com/spreadsheets/d/1NvU-ED2WTrvb-M41DZcqqQdUtHKSmfR09Ilq2UU8PRY/edit#gid=0).
 4. Создайте файл **data-essay.md** в репозитории **Data-Management-2018**.
 5. Сохраните найденные ссылки в файле **data-essay.md**.
 6. Занесите ссылку на файл **data-essay.md** в нашу опорную гуглотаблицу.
