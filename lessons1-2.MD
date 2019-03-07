@@ -13,7 +13,7 @@
 8. Бюджет
 9. Культура
 Или предложите свою тему.
-И внести тему в нашу гугл-таблицу: https://docs.google.com/spreadsheets/d/1ky2-lWnzsWVZwq_rdsj54xKQ1XPaxPhbYdElKMbcSmo/edit#gid=1954532834       
+И внести тему в нашу гугл-таблицу: https://docs.google.com/spreadsheets/d/1NvU-ED2WTrvb-M41DZcqqQdUtHKSmfR09Ilq2UU8PRY/edit#gid=0      
 
 
 ## Вебинар
