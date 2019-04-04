@@ -17,7 +17,7 @@
 
 
 ## Вебинар
-Видео: 
+Образовательные стримы: https://www.youtube.com/playlist?list=PLfSN69RCPDM9CWry7yggYuZ4dQM4ehVwu 
 
 ## Задание 
 
