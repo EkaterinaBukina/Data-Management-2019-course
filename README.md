@@ -21,7 +21,7 @@
 - [Пост-опросник](...).
 
 ### Стримы
-[Образовательные стримы](https://www.youtube.com/watch?v=ue8-uoQzteg&list=PLfSN69RCPDM_C8CZ8g7EtX6riudaTGM1T)      
+[Образовательные стримы](https://www.youtube.com/playlist?list=PLfSN69RCPDM9CWry7yggYuZ4dQM4ehVwu)      
 
 ### Оценка за курc       
 [Задание 1 (Поиск открытых данных по заданной теме)](https://github.com/HSEtraining/Data-Management-2019-course/blob/master/tasks/task1.md) = 2 балла     
