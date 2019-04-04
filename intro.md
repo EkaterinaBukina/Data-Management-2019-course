@@ -12,9 +12,9 @@ Skype: iradche
 
 ## Цели занятия
 ### Знакомство     
-Предварительный опрос: https://goo.gl/forms/4O0fQAt12RxaH7wF2      
+Предварительный опрос: https://forms.gle/SdteioaBwChg3fCX6     
 Опорная гуглотаблица: https://docs.google.com/spreadsheets/d/1NvU-ED2WTrvb-M41DZcqqQdUtHKSmfR09Ilq2UU8PRY/edit#gid=0       
-Образовательный стрим: https://youtu.be/UdMsoQhONRc               
+Образовательные стримы: https://www.youtube.com/playlist?list=PLfSN69RCPDM9CWry7yggYuZ4dQM4ehVwu               
 
 
 ### Управление данными
