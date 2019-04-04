@@ -16,9 +16,9 @@
 
 
 ### Опросы 
-- [Предварительный опросник](https://goo.gl/forms/xIprFJMstEJKiBE03).         
-- [Промежуточный опросник](...).
-- [Пост-опросник](...).
+- [Предварительный опросник](https://forms.gle/SdteioaBwChg3fCX6).         
+- [Промежуточный опросник](https://forms.gle/jut35VpthdpstdcE6).
+- [Пост-опросник](https://forms.gle/MMSwJwzTvQzXVf7N9).
 
 ### Стримы
 [Образовательные стримы](https://www.youtube.com/playlist?list=PLfSN69RCPDM9CWry7yggYuZ4dQM4ehVwu)      
